@@ -1,5 +1,5 @@
 {
-  "name": "crowd-funding",
+  "name": "stucknut2",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,8 +9,8 @@
     "seed": "node seeds/seed.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "jnelson4004",
+  "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "connect-session-sequelize": "^7.0.4",
@@ -18,7 +18,7 @@
     "express": "^4.17.1",
     "express-handlebars": "^5.2.0",
     "express-session": "^1.17.1",
-    "mysql2": "^2.2.5",
+    "mysql2": "^3.10.0",
     "sequelize": "^6.3.5"
   },
   "devDependencies": {
